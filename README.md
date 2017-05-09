@@ -1,0 +1,2 @@
+# SampleCloud
+Sample azure example
